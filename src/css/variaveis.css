@@ -1,22 +1,24 @@
 :root {
-    --cor-primaria: #afafaf;
-    --cor-secundaria: #4355fc;    
-    --cor-principal: #000000;
-    --cor-fundo-principal: #dddcd4;
-    --cor-fundo-secundario: #7e7e7e;
-    --cor-fundo-escuro: #040203;    
-    --cor-fundo-cinza-claro: #353535;    
-  }
-    
-  :root {
-    --fonte-primaria: 'Poppins', sans serif;
-    --fonte-secundaria: 'Raleway', sans serif;
-    --fonte-gigante: 4.5rem;
-    --fonte-extra-grande: 3rem;
-    --fonte-grande: 2.4rem;
-    --fonte-normal: 1.6rem;
-  }
-  
-  :root {
-    --mobile-padding: 30px;
-  }
+  --cor-principal: #000000;
+  --cor-primaria: #7e7e7e;
+  --cor-secundaria: #4355fc;
+  --cor-terciaria: #dddddd;
+  --cor-fundo-principal: #dddcd4;
+  --cor-fundo-secundario: #707070;
+  --cor-fundo-escuro: #040203;
+  --cor-fundo-cinza-claro: #353535;
+  --cor-branca: #fff;
+}
+
+:root {
+  --fonte-primaria: 'Poppins', sans-serif;
+  --fonte-secundaria: 'Raleway', sans-serif;
+  --fonte-gigante: 4.5rem;
+  --fonte-extra-grande: 3rem;
+  --fonte-grande: 2.4rem;
+  --fonte-normal: 1.6rem;
+}
+
+:root {
+  --mobile-padding: 30px;
+}

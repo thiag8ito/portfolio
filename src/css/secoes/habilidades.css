@@ -1,4 +1,8 @@
 /* HABILIDADES */
+.habilidades {
+    background-color: #2424245e;
+}
+
 .habilidades .container-habilidades {    
     text-align: center;    
     display: flex;
@@ -31,7 +35,7 @@
     font-size: var(--fonte-extra-grande);
     font-weight: 500;
     margin-bottom: 20px;
-    color: var(--cor-primaria);      
+    color: var(--cor-terciaria);      
 }
 
 .habilidades .container-habilidades .informacoes p {

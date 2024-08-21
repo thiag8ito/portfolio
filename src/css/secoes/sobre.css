@@ -1,4 +1,9 @@
 /* SOBRE MIM */
+.sobre-mim {
+    background-color: #3f3f3f;
+    color: var(--cor-branca);
+}
+
 .sobre-mim .imagem-sobre-mim {
     max-width: 40%;
     padding: 0 15px;
