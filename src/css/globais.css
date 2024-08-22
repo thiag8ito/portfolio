@@ -38,7 +38,7 @@ body {
   height: 40px;
   font-size: 1.8rem;
   text-align: center;
-  color: var(--cor-branca);
+  color: var(--cor-principal);
   margin: 0 4px;
   border-radius: 50%;
   transition: all 0.3s ease;
